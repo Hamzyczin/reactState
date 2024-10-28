@@ -1,0 +1,29 @@
+.card-wrap{
+    width: 300px;
+    height: 500px;
+    border: 1px solid black;
+    box-shadow:  1px 1px 3px black; 
+}
+.card-wrap img{
+    width:inherit;
+    height: 300px;
+    object-fit: cover;
+}
+.card-content{
+
+    padding: 15px 25px;
+    width: 50px;
+    margin: 0px auto;
+    text-align: center
+}
+
+.like-icon{
+    width: 50px;
+    height: 50px;
+    border: 1px solid hotpink;
+    border-radius: 50%;
+
+}
+.bg-red{
+    background: red;
+}
